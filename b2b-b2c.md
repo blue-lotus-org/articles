@@ -5,7 +5,7 @@ The main difference between **B2B** and **B2C** is the audience or niche market 
 
 B2B ecommerce tends to be more complex than B2C ecommerce. It involves heavier research, more needs-based purchasing, and less marketing-driven buying. Many B2B buyers have very tight parameters around the purchases they can make. This means that traditional revenue drivers like add-ons don’t have the same impact. B2B organisations didn’t have much of an incentive to optimise their customer journey but this is changing in the current climate2.
 
-#
+---
 
 ## B2B - SaaS (Software as a Service)
 **B2B SaaS (Software as a Service)** solutions refer to software applications that are designed to serve the needs of business-to-business (B2B) customers through a cloud-based subscription model. In other words, **B2B SaaS solutions** are software tools that are developed and sold to other businesses, rather than to individual consumers.
@@ -13,8 +13,6 @@ B2B ecommerce tends to be more complex than B2C ecommerce. It involves heavier r
 These solutions are hosted in the **cloud**, which means that customers can access and use them over the internet, without having to install or maintain any software on their own computers or servers. **B2B SaaS solutions** can be used for a wide range of business functions, such as accounting, human resources, project management, customer relationship management, and more.
 
 The **subscription-based pricing model** of **B2B SaaS solutions** allows businesses to pay for only the services they use, rather than investing in costly and complex on-premise software solutions. This makes **B2B SaaS solutions** a more affordable and flexible option for businesses of all sizes, particularly for those that are looking to scale quickly and efficiently.
-
----
 
 ## B2C - (Business-to-Consumer)
 **B2C (Business-to-Consumer)** apps and consumer internet startups are businesses that offer products or services directly to individual consumers via the internet. These companies typically operate in industries such as e-commerce, social media, entertainment, and communication.
