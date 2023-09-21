@@ -6,3 +6,4 @@ blog, posts, articles
 - [Crypto Swap](https://github.com/blue-lotus-org/articles/blob/main/crypto-swap.md)
 - [Unicorn Crypto Startup](https://github.com/blue-lotus-org/articles/blob/main/unicorn-defi-startup.md)
 - [Explain Smartcontract Security Audit](https://github.com/blue-lotus-org/articles/blob/main/explain-security-audit.md)
+- [Smartcontract Security Tips](https://github.com/blue-lotus-org/articles/blob/main/smartcontract-security-tips.md)
