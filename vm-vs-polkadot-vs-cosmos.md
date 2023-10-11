@@ -27,13 +27,13 @@
 
 | Comparison Factors | Polkadot | Cosmos |
 |--------------------|----------|--------|
-| Model              | Sharded model with abstract state transition function (STF) | Bridge-hub model connecting Tendermint chains |
-| Architecture       | Relay Chain and Parachains | Hub and Zones |
-| Consensus          | Hybrid consensus protocol with BABE and GRANDPA | Tendermint consensus |
-| Staking Mechanics  | Nominated Proof of Stake (NPoS) with Phragmén algorithm | Bonded Proof of Stake (Delegated PoS) |
-| Message Passing    | Cross-Consensus Message Passing Format (XCM) with SPREE protocol | Inter-Blockchain Communication (IBC) |
-| Governance         | Multicameral governance system with public referenda and Council | On-chain, permissionless bodies with elected accounts |
-| Source             | [[C]](https://wiki.polkadot.network/docs/learn-comparisons-cosmos) | [[D]](https://wiki.polkadot.network/docs/learn-comparisons-cosmos) |
+| **Model**              | Sharded model with abstract state transition function (STF) | Bridge-hub model connecting Tendermint chains |
+| **Architecture**       | Relay Chain and Parachains | Hub and Zones |
+| **Consensus**          | Hybrid consensus protocol with BABE and GRANDPA | Tendermint consensus |
+| **Staking Mechanics**  | Nominated Proof of Stake (NPoS) with Phragmén algorithm | Bonded Proof of Stake (Delegated PoS) |
+| **Message Passing**    | Cross-Consensus Message Passing Format (XCM) with SPREE protocol | Inter-Blockchain Communication (IBC) |
+| **Governance**         | Multicameral governance system with public referenda and Council | On-chain, permissionless bodies with elected accounts |
+| **Source**             | [[C]](https://wiki.polkadot.network/docs/learn-comparisons-cosmos) | [[D]](https://wiki.polkadot.network/docs/learn-comparisons-cosmos) |
 
 #
 
