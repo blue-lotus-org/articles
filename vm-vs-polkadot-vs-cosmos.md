@@ -23,13 +23,6 @@
 
 #
 
-##### References:
-1. [Cosmos Vs Polkadot, what's the difference? - LinkedIn](https://www.linkedin.com/pulse/interoperability-war-cosmos-vs-polkadot-whats-difference-success-ndu)
-2. [Polkadot vs. Cosmos · Polkadot Wiki](https://wiki.polkadot.network/docs/learn-comparisons-cosmos)
-3. [Comparison between Avalanche, Cosmos and Polkadot | by Seq | Avalanche Hub | Medium](https://medium.com/avalanche-hub/comparison-between-avalanche-cosmos-and-polkadot-a2a98f46c03b)
-
----
-
 ### comparison table between 'Polkadot' and 'Cosmos':
 
 | Comparison Factors | Polkadot | Cosmos |
@@ -42,9 +35,12 @@
 | Governance         | Multicameral governance system with public referenda and Council | On-chain, permissionless bodies with elected accounts |
 | Source             | [[C]](https://wiki.polkadot.network/docs/learn-comparisons-cosmos) | [[D]](https://wiki.polkadot.network/docs/learn-comparisons-cosmos) |
 
-#
+---
 
 ##### References:
+1. [Cosmos Vs Polkadot, what's the difference? - LinkedIn](https://www.linkedin.com/pulse/interoperability-war-cosmos-vs-polkadot-whats-difference-success-ndu)
+2. [Polkadot vs. Cosmos · Polkadot Wiki](https://wiki.polkadot.network/docs/learn-comparisons-cosmos)
+3. [Comparison between Avalanche, Cosmos and Polkadot | by Seq | Avalanche Hub | Medium](https://medium.com/avalanche-hub/comparison-between-avalanche-cosmos-and-polkadot-a2a98f46c03b)
 4. [Polkadot vs. Cosmos · Polkadot Wiki](https://wiki.polkadot.network/docs/learn-comparisons-cosmos)
 5. [Polkadot vs Cosmos vs Avalanche vs Venom: A Comprehensive Blockchain Comparison | CoinCodex](https://coincodex.com/article/25866/polkadot-vs-cosmos-vs-avalanche-vs-venom/)
 6. [Interoperability Design Comparison: MAP, Cosmos, and Polkadot | by MAP Protocol | MAP Protocol | Medium](https://medium.com/mapprotocol/interoperability-design-comparison-map-cosmos-and-polkadot-888c4af4b1f7)
