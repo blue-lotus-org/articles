@@ -26,7 +26,7 @@
 ### comparison table between 'Polkadot' and 'Cosmos':
 
 | Comparison Factors | Polkadot | Cosmos |
-|:--------------------:|:----------|--------:|
+|:--------------------:|:----------:|:--------:|
 | **Model**              | Sharded model with abstract state transition function (STF) | Bridge-hub model connecting Tendermint chains |
 | **Architecture**       | Relay Chain and Parachains | Hub and Zones |
 | **Consensus**          | Hybrid consensus protocol with BABE and GRANDPA | Tendermint consensus |
