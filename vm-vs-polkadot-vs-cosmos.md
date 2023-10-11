@@ -39,19 +39,19 @@
 
 ### Tree chart comparing the three types: VM, Polkadot Parachain, and Cosmos:
 
-VM (Virtual Machine):
+**VM (Virtual Machine)**:
 - Ethereum Virtual Machine (EVM)
   - Layer 2 solutions (e.g., Optimism, zkSync, Polygon, Arbitrum, StarkNet)
     - Customizable Layer 2 stack solutions
     - Compatibility challenge with underlying code and Dapp sovereignty [[E]](https://medium.com/@gryphsisacademy/cosmos-polkadot-v-s-layer-2-stacks-series-1-an-examination-of-underlying-technology-33d965a5d17f)
 
-Polkadot Parachain:
+**Polkadot Parachain**:
 - Polkadot Network
   - Parachains (independent blockchains)
     - Interoperability with other parachains through the Polkadot Relay Chain
     - Shared security model and cross-chain communication [[F]](https://medium.com/@davekaj/blockchain-interoperability-cosmos-vs-polkadot-48097d54d2e2)
 
-Cosmos:
+**Cosmos**:
 - Cosmos Network
   - Tendermint consensus engine
     - Inter Blockchain Communication (IBC) protocol
