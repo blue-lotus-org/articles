@@ -35,6 +35,31 @@
 | Governance         | Multicameral governance system with public referenda and Council | On-chain, permissionless bodies with elected accounts |
 | Source             | [[C]](https://wiki.polkadot.network/docs/learn-comparisons-cosmos) | [[D]](https://wiki.polkadot.network/docs/learn-comparisons-cosmos) |
 
+#
+
+### Tree chart comparing the three types: VM, Polkadot Parachain, and Cosmos:
+
+VM (Virtual Machine):
+- Ethereum Virtual Machine (EVM)
+  - Layer 2 solutions (e.g., Optimism, zkSync, Polygon, Arbitrum, StarkNet)
+    - Customizable Layer 2 stack solutions
+    - Compatibility challenge with underlying code and Dapp sovereignty [[E]](https://medium.com/@gryphsisacademy/cosmos-polkadot-v-s-layer-2-stacks-series-1-an-examination-of-underlying-technology-33d965a5d17f)
+
+Polkadot Parachain:
+- Polkadot Network
+  - Parachains (independent blockchains)
+    - Interoperability with other parachains through the Polkadot Relay Chain
+    - Shared security model and cross-chain communication [[F]](https://medium.com/@davekaj/blockchain-interoperability-cosmos-vs-polkadot-48097d54d2e2)
+
+Cosmos:
+- Cosmos Network
+  - Tendermint consensus engine
+    - Inter Blockchain Communication (IBC) protocol
+      - Blockchains can interact with each other through IBC
+      - Cosmos Hub as the central connector for all blockchains in the network
+      - Peg Zones for connecting to live blockchain networks (e.g., Ethereum Mainnet)
+      - Atom token for staking and governance of the Cosmos Hub [[G]](https://medium.com/@davekaj/blockchain-interoperability-cosmos-vs-polkadot-48097d54d2e2)
+
 ---
 
 ##### References:
@@ -44,3 +69,6 @@
 4. [Polkadot vs. Cosmos · Polkadot Wiki](https://wiki.polkadot.network/docs/learn-comparisons-cosmos)
 5. [Polkadot vs Cosmos vs Avalanche vs Venom: A Comprehensive Blockchain Comparison | CoinCodex](https://coincodex.com/article/25866/polkadot-vs-cosmos-vs-avalanche-vs-venom/)
 6. [Interoperability Design Comparison: MAP, Cosmos, and Polkadot | by MAP Protocol | MAP Protocol | Medium](https://medium.com/mapprotocol/interoperability-design-comparison-map-cosmos-and-polkadot-888c4af4b1f7)
+7. [Blockchain Interoperability: Cosmos vs. Polkadot | by Dave Kajpust | Medium](https://medium.com/@davekaj/blockchain-interoperability-cosmos-vs-polkadot-48097d54d2e2)
+8. [Cosmos & Polkadot V.S. Layer 2 Stacks: Series 1 - An Examination of Underlying Technology | by Gryphsis Academy | Sep, 2023 | Medium](https://medium.com/@gryphsisacademy/cosmos-polkadot-v-s-layer-2-stacks-series-1-an-examination-of-underlying-technology-33d965a5d17f)
+9. [The Polkadot architecture and introduction to the Substrate infrastructure](https://cointelegraph.com/learn/the-polkadot-architecture-and-introduction-to-the-substrate-infrastructure)
