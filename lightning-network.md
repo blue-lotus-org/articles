@@ -71,7 +71,7 @@ To mitigate these risks and limitations, it is important for users to carefully 
 ---
 
 ## Gift 📦
-To build and run a Lightning Network()Node, following these steps:
+To build and run a Lightning Network(Node), following these steps:
 
 1. **Set up a Lightning Node**:
    - Install Lightning protocol software on your computer [[i]](https://www.lightspark.com/learn/lightning/explaining-lightning-nodes).
