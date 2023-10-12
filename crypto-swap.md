@@ -70,3 +70,6 @@ If you wish to convert the wrapped tokens back into the original cryptocurrency,
 
 Wrapped tokens provide interoperability between different blockchain networks, allowing users to access and utilize assets that are native to other networks. They enable seamless swapping and utilization of cryptocurrencies across different ecosystems.
 
+<div align="right">
+  Creator: <a href="https://lotuschain.org/">Lotus Chain</a>
+</div>
