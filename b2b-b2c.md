@@ -22,3 +22,7 @@ The **subscription-based pricing model** of **B2B SaaS solutions** allows busine
 These companies generally rely on a large customer base to generate revenue, and often use various marketing and advertising strategies to acquire and retain customers. They may also utilize data analytics and user feedback to improve their products or services and better meet the needs and preferences of their customers.
 
 **B2C** apps and consumer internet startups have become increasingly popular and successful in recent years, due in part to the widespread adoption of smartphones and other mobile devices, as well as the growing importance of e-commerce and digital communication in people's daily lives.
+
+<div align="right">
+  Creator: <a href="https://lotuschain.org/>Lotus Chain</a>
+</div>
