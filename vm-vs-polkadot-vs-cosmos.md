@@ -72,3 +72,7 @@
 7. [Blockchain Interoperability: Cosmos vs. Polkadot | by Dave Kajpust | Medium](https://medium.com/@davekaj/blockchain-interoperability-cosmos-vs-polkadot-48097d54d2e2)
 8. [Cosmos & Polkadot V.S. Layer 2 Stacks: Series 1 - An Examination of Underlying Technology | by Gryphsis Academy | Sep, 2023 | Medium](https://medium.com/@gryphsisacademy/cosmos-polkadot-v-s-layer-2-stacks-series-1-an-examination-of-underlying-technology-33d965a5d17f)
 9. [The Polkadot architecture and introduction to the Substrate infrastructure](https://cointelegraph.com/learn/the-polkadot-architecture-and-introduction-to-the-substrate-infrastructure)
+
+<div align="right">
+  Creator: <a href="https://lotuschain.org/">Lotus Chain</a>
+</div>
