@@ -134,3 +134,7 @@ Market makers often establish relationships with exchanges, trading platforms, a
 
 **Market Maker Methodology combines** pricing, order management, risk management, and technology to fulfill the crucial role of liquidity provision in financial markets.\
 By actively participating in trading and providing continuous bid and ask prices, market makers facilitate efficient price discovery and enable smooth trading operations for market participants.
+
+<div align="right">
+  Creator: <a href="https://lotuschain.org/">Lotus Chain</a>
+</div>
