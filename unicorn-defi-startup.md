@@ -33,3 +33,7 @@ Seek funding from reputable venture capital firms, angel investors, or strategic
 The crypto and DeFi space is rapidly evolving. Stay ahead of the curve by constantly innovating, adapting to market trends, and expanding your product offerings. Continuously engage with your user community, gather feedback, and evolve your product roadmap to meet their evolving needs.
 
 > Note: provide a general guideline, success in the startup ecosystem is highly dependent on various factors, including market conditions, competition, team expertise, timing, and execution.
+
+<div align="right">
+  Creator: <a href="https://lotuschain.org/">Lotus Chain</a>
+</div>
