@@ -59,3 +59,7 @@ The content provides a set of tips for ensuring the security of smart contracts.
 
 ### Conclusion
 In conclusion, ensuring the security of smart contracts is of paramount importance in the blockchain ecosystem. By following the tips outlined in this content, developers can significantly reduce the risks associated with vulnerabilities and attacks on their smart contracts. Security audits, external reviews, and cautious consideration of extra functionality are crucial steps in the process. Adhering to best practices, utilizing automatic validation tools, and selecting a secure programming language are essential for robust contract development. Network-specific frameworks, comprehensive testing, and bug bounties further strengthen the security posture. Careful review of third-party applications, integrations, and libraries, as well as diligent vetting of third-party developers, contribute to a more secure smart contract ecosystem. Finally, implementing community guidelines fosters user safety and provides resources for users to engage securely with the project. By incorporating these security measures, developers can enhance the integrity and trustworthiness of their smart contracts, ultimately contributing to a more secure and resilient blockchain ecosystem.
+
+<div align="right">
+  Creator: <a href="https://lotuschain.org/">Lotus Chain</a>
+</div>
