@@ -46,3 +46,7 @@ A security audit of smart contracts aims to identify vulnerabilities and weaknes
 
 #### Conclusion:
 Security audits play a vital role in ensuring the trustworthiness and reliability of smart contracts. By conducting comprehensive audits, organizations and developers can identify and address vulnerabilities, reducing the risk of financial loss and reputational damage. With a focus on best practices and compliance, security audits contribute to the continued growth and adoption of blockchain technology.
+
+<div align="right">
+  Creator: <a href="https://lotuschain.org/">Lotus Chain</a>
+</div>
