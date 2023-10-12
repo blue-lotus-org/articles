@@ -105,3 +105,7 @@ Gift References:
 1. [Explaining Lightning Nodes - Lightspark](https://www.lightspark.com/learn/lightning/explaining-lightning-nodes)
 2. [How to Set Up a Bitcoin Lightning Network Node](https://watcher.guru/news/how-to-set-up-a-bitcoin-lightning-network-node)
 3. [How to Run a Bitcoin Lightning Node in 5 Minutes? - CoinCodeCap](https://coincodecap.com/bitcoin-lightning-network-node)
+
+<div align="right">
+  Creator: <a href="https://lotuschain.org/">Lotus Chain</a>
+</div>
