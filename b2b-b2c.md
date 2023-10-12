@@ -24,5 +24,5 @@ These companies generally rely on a large customer base to generate revenue, and
 **B2C** apps and consumer internet startups have become increasingly popular and successful in recent years, due in part to the widespread adoption of smartphones and other mobile devices, as well as the growing importance of e-commerce and digital communication in people's daily lives.
 
 <div align="right">
-  Creator: <a href="https://lotuschain.org/>Lotus Chain</a>
+  Creator: <a href="https://lotuschain.org/">Lotus Chain</a>
 </div>
